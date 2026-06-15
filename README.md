@@ -69,13 +69,13 @@ A simple full-stack post-sharing app built with the MERN stack. Users can upload
    Backend:
    ```bash
    cd Backend
-   npm run dev
+   node --watch server.js
    ```
 
    Frontend:
    ```bash
    cd Frontend
-   npm start
+   npm run dev
    ```
 
 ---
